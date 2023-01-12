@@ -1,5 +1,3 @@
-# modified from blender template
-
 import bpy
 import os
 
@@ -20,6 +18,12 @@ bpy.ops.object.select_all(action='DESELECT')
 # modify all material to opaque
 for material in bpy.data.materials:
     material.blend_method = 'OPAQUE'
+    if not material.use_nodes:
+        material.metallic = 0
+        continue
+    for n in material.node_tree.nodes:
+        if n.type == 'BSDF_PRINCIPLED':
+            n.inputs["Metallic"].default_value = 0
 
 # each object
 for obj in selection:
