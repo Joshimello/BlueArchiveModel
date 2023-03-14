@@ -10,13 +10,13 @@ yostar and nexon own everything I think
 all for personal use and not for leaking  
 
 ### Files
-- [v] Ayane
+- [x] Ayane
 - [ ] Ayane (Swimsuit)
-- [v] Hoshino
-- [v] Hoshino (Swimsuit)
-- [v] Nonomi
+- [x] Hoshino
+- [x] Hoshino (Swimsuit)
+- [x] Nonomi
 - [ ] Nonomi (Swimsuit)
-- [v] Serika
-- [v] Serika (New Year)
-- [v] Shiroko
-- [v] Shiroko (Riding)
+- [x] Serika
+- [x] Serika (New Year)
+- [x] Shiroko
+- [x] Shiroko (Riding)
