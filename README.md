@@ -7,8 +7,8 @@ glb format with character animations
 ### How
 1. get data somehow
 2. [assetstudio](https://github.com/Perfare/AssetStudio)
-3. blender magic
-4. profit(metaphorically)  
+3. [blender](https://www.blender.org/download/) [magic](https://github.com/Joshimello/BlueArchiveModel/blob/main/model.py)
+4. profit (metaphorically)
 
 ### Info
 learning and research purposes only  
