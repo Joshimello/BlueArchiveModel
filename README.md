@@ -16,6 +16,7 @@ yostar and nexon own everything I think
 all for personal use and not for leaking  
 
 ### Files
+**Abydos**
 - [x] Ayane
 - [ ] Ayane (Swimsuit)
 - [x] Hoshino
@@ -27,6 +28,7 @@ all for personal use and not for leaking
 - [x] Shiroko
 - [x] Shiroko (Riding)
 
+**Arius**
 - [x] Atsuko
 - [x] Hiyori
 - [x] Misaki
