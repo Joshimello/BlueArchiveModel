@@ -21,8 +21,13 @@ all for personal use and not for leaking
 - [x] Hoshino
 - [x] Hoshino (Swimsuit)
 - [x] Nonomi
-- [ ] Nonomi (Swimsuit)
+- [x] Nonomi (Swimsuit)
 - [x] Serika
 - [x] Serika (New Year)
 - [x] Shiroko
 - [x] Shiroko (Riding)
+
+- [x] Atsuko
+- [x] Hiyori
+- [x] Misaki
+- [x] Saori
