@@ -33,3 +33,31 @@ all for personal use and not for leaking
 - [x] Hiyori
 - [x] Misaki
 - [x] Saori
+
+**Gahenna**
+- [x] Akari
+- [x] Ako
+- [x] Aru
+- [ ] Aru (New Year)
+- [ ] Chinatsu
+- [x] Chinatsu (Hot Spring)
+- [ ] Fuuka
+- [x] Fuuka (New Year)
+- [x] Haruka
+- [ ] Haruna
+- [x] Haruna (New Year)
+- [x] Hina
+- [ ] Hina (Swimsuit)
+- [x] Iroi
+- [ ] Iroi (Swimsuit)
+- [ ] Iroha
+- [ ] Izumi
+- [ ] Izumi (Swimsuit)
+- [ ] Junko
+- [ ] Junko (New Year)
+- [ ] Juri
+- [ ] Kayoko
+- [ ] Megu
+- [ ] Mutsuki
+- [ ] Mutsuki (New Year)
+- [ ] Sena
