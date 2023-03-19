@@ -53,11 +53,12 @@ all for personal use and not for leaking
 - [ ] Iroha
 - [ ] Izumi
 - [ ] Izumi (Swimsuit)
-- [ ] Junko
+- [x] Junko
 - [ ] Junko (New Year)
 - [ ] Juri
-- [ ] Kayoko
-- [ ] Megu
+- [x] Kayoko
+- [x] Megu
+- [x] Megu (Onsen)
 - [ ] Mutsuki
 - [ ] Mutsuki (New Year)
 - [ ] Sena
